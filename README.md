@@ -27,7 +27,3 @@
 <a href="https://instagram.com/joaopedrouggioni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joaopedrouggioni" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/joaopedrouggionidamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaopedrouggionidamin" height="30" width="40" /></a>
 </p>
-
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312lalnrnxnscihiwymaqtgst3fi&unique={true|1|on|yes})
-

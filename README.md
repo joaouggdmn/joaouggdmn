@@ -6,7 +6,7 @@
     align="left" 
     alt="GitHub Stats" 
     height="175" 
-    src="https://github-readme-stats.vercel.app/api?username=joaouggdmn&show_icons=true&theme=gruvbox&include_all_commits=true&locale=pt-br" 
+    src="https://githu-readme-stats.vercel.app/api?username=joaouggdmn&show_icons=true&theme=gruvbox&include_all_commits=true&locale=pt-br" 
   />
 
 <img 

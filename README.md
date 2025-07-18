@@ -6,14 +6,14 @@
     align="left" 
     alt="GitHub Stats" 
     height="175" 
-    src="https://githu-readme-stats.vercel.app/api?username=joaouggdmn&show_icons=true&theme=gruvbox&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=joaouggdmn&show_icons=true&theme=gruvbox&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="right" 
       alt="GitHub Stats" 
       height="175" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaouggdmn&theme=gruvbox&layout=compact&custom_title=Linguagens/Tecnologias&langs_count=9" 
+      src="https://githu-readme-stats.vercel.app/api/top-langs/?username=joaouggdmn&theme=gruvbox&layout=compact&custom_title=Linguagens/Tecnologias&langs_count=9" 
   />
 
 </p><br><br><br><br><br><br><br><br><br>

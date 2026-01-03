@@ -1,10 +1,13 @@
 
 
+
 <h2>📊 Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaouggdmn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false" height="165" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaouggdmn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false" height="165" alt="languages graph"  />
-</div><br>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaouggdmn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&cache_seconds=86400" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=joaouggdmn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&cache_seconds=86400" height="165" alt="languages graph" />
+</div>
+
+<br>
 
 
 <h2>🚀 Principais Tecnologias</h2>
@@ -17,6 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+
+<br>
 
 <h2 align="left">🌐 Conecte-se comigo</h2>
 <p align="left">

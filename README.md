@@ -1,7 +1,3 @@
-<div align="center">
-<img width="650" height="300" alt="image" src="https://github.com/user-attachments/assets/a1cb9440-3e4a-42ad-a160-7713b91db279" />
-</div>
-
 ### `João Pedro Uggioni`
 teste
 ``````json

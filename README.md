@@ -1,6 +1,6 @@
 ### `João Pedro Uggioni`
 
-Desenvolvo soluções criativas e impactantes para contribuir com a sociedade, enquanto amplio constantemente meu conhecimento e meu repertório no universo do desenvolvimento **full-stack**.
+Apaixonado por desenvolver soluções criativas enquanto amplio constantemente meu conhecimento e meu repertório no universo do desenvolvimento **full-stack**.
 
 ``````json
 {

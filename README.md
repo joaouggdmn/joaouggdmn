@@ -1,5 +1,7 @@
 ### `João Pedro Uggioni`
-teste
+
+Desenvolvo soluções criativas e impactantes para contribuir com a sociedade, enquanto amplio constantemente meu conhecimento e meu repertório no universo do desenvolvimento **full-stack**.
+
 ``````json
 {
   "nome":"João Pedro",

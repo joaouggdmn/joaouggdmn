@@ -17,9 +17,7 @@ Acredito que a tecnologia faz mais sentido quando resolve problemas de gente de 
     "System Modeling",
     "LeetCode",
     "Artificial Intelligence",
-    "Generative AI & LLMs",
-    "Prompt Engineering",
-    "Machine Learning Fundamentals"
+    "Generative AI & LLMs"
   ]
 }
 ```
